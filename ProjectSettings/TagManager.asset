@@ -44,7 +44,7 @@ TagManager:
   - name: BG
     uniqueID: 276471463
     locked: 0
-  - name: Ground
+  - name: Game
     uniqueID: 289170669
     locked: 0
   m_RenderingLayers:
